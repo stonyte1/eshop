@@ -1,4 +1,4 @@
 .idea
 *.pyc
 venv
-eshop/.DS_Store
+.DS_Store
